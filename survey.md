@@ -9,3 +9,4 @@
 | David Brang  | djbrang  | dbrang  | python/matlab | How to work with github and matlab scripts |.
 | Kathy Xie  | kathyxie  | katxie  | R | sup |
 | Maddie Quirk  | quirkm | quirkm | R | no questions |
+| Jasmine Cooper  | jasmc  | jasmc1  | matlab, R | No questions. |
