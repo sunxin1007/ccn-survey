@@ -4,4 +4,4 @@
 | Name  | UM uniqname | GitHub username | Software used in research | Question
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Mark Champe  | mrchampe | mrchampe | python | What questions do you have? |
-| ____________  | ____________  | ____________  | ____________ | ____________ |
+| Ryan Rich  | ryrich  | richry  | matlab | all of it - very new |
