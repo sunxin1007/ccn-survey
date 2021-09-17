@@ -5,4 +5,5 @@
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Mark Champe  | mrchampe | mrchampe | python | What questions do you have? |
 | Emily Atkinson  | eeatkins  | eatkinson13  | R | So helpful, thanks! |
-| David Brang  | djbrang  | dbrang  | python/matlab | How to work with github and matlab scripts |
+| David Brang  | djbrang  | dbrang  | python/matlab | How to work with github and matlab scripts |.
+| Kathy Xie  | kathyxie  | katxie  | R | sup |
