@@ -1,5 +1,5 @@
 
-# Attendance and Group Information
+# CCN Forum survey 
 
 | Name  | UM uniqname | GitHub username | Software used in research | Question
 | ------------- | ------------- | ------------- | ------------- | ------------- |
